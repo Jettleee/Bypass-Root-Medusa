@@ -49,9 +49,6 @@ L'application cible effectue plusieurs vérifications (lecture de `android.os.Bu
 
 
 
-*(
-
-
 > **Preuves :
 
 
@@ -71,14 +68,9 @@ L'application cible effectue plusieurs vérifications (lecture de `android.os.Bu
 
 
 
-
-
 <img width="300" height="635" alt="image" src="https://github.com/user-attachments/assets/21a9de26-3395-4f0f-a5ab-3ecd0e2ae33e" />
 
 
-
-
----
 
 
 
